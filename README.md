@@ -2,7 +2,7 @@
 
 ℹ️ For detailed information about the contest, check out [devadvent/readme](https://github.com/devadvent/readme/)
 
-# Dev Advent Calendar 🎅 Puzzle 17 - Secret Messages 🔏
+# Dev Advent Calendar 🎅 Puzzle 22 - Secret Messages ✉️
 
 Some kid elves are making trouble in school, by sending themselves encrypted messages during class and disturbing the class with it.
 
@@ -29,6 +29,9 @@ The function takes two arguments:
 The return value should be the converted text.
 
 If the value is not a letter from the latin alphabet (a-z, or A-Z), return the original value.
+
+ℹ️ You can try out the caesar cipher here:
+[https://www.dcode.fr/caesar-cipher](https://www.dcode.fr/caesar-cipher)
 
 ## 🚢 Ship your solution
 
